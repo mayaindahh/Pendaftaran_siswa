@@ -1,0 +1,10 @@
+.login{
+    text-align: center;
+    border: 5px solid skyblue;
+    margin: 10px 30rem;
+    padding: 25px 15px;
+    position: relative;
+    top: 2cm;
+    color:beige;
+    background-color: aqua;
+}
